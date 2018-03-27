@@ -1,1 +1,1 @@
-# NewRepo
+# NewRepo for git command demonstration
